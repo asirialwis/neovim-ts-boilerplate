@@ -28,7 +28,7 @@ vim.opt.rtp:prepend(lazypath)
 -- ========================================================================== --
 require("lazy").setup({
   -- UI & Icons
-  { "nvim-tree/nvim-tree.lua", dependencies = { "nvim-web-devicons" }, config = function() require("nvim-tree").setup({ view = { width = 30 } }) end },
+  { "nvim-tree/nvim-tree.lua", dependencies = { "nvim-web-devicons" }, config = function() require("nvim-tree").setup({ view = { width = 45 } }) end },
   { "nvim-telescope/telescope.nvim", tag = '0.1.6', dependencies = { 'plenary.nvim' } },
   { "lewis6991/gitsigns.nvim", config = function() require('gitsigns').setup() end },
   

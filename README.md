@@ -15,6 +15,26 @@ A high-performance, developer-focused Neovim configuration built for **Node.js**
 
 ---
 
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Main Dashboard
+*A clean, distraction-free environment with TokyoNight theme and Treesitter highlighting.*
+![Main View](assets/neovim1.png)
+
+### 🔍 Safe-Mode Toggles (NvimTree)
+*Find any file navigation within files in milliseconds.*
+![Telescope Search](assets/neovim2.png)
+
+### 🤖 Integrated Terminal
+*Real-time code explanation and chat-based refactoring.*
+![Copilot Chat](assets/neovim3.png)
+
+---
+
+
 ## 📋 Prerequisites
 
 Before installing, ensure you have the following on your system (Optimized for Linux/Ubuntu/Mint):
